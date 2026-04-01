@@ -12,9 +12,9 @@
 
 ## a little about me
 
-I come from a statistics background, so I naturally end up thinking in models, uncertainty, signal, noise, and tradeoffs. Lately that has pulled me deeper into AI, data science, deep learning, and the more practical side of building with them.
+I come from a statistics background, so I naturally end up thinking in models, uncertainty, signal, noise, and tradeoffs. That has pulled me toward AI, data science, deep learning, and the practical side of building with them.
 
-A lot of what I do is part study, part experimentation. I like trying new ideas, testing tools properly, and seeing what holds up once you move past the demo stage.
+A lot of what I do is part study, part experimentation. I like trying new ideas, testing tools properly, and seeing what still makes sense once you move past the demo stage.
 
 ## what I keep coming back to
 
@@ -25,7 +25,14 @@ A lot of what I do is part study, part experimentation. I like trying new ideas,
 - data visualization that makes analysis easier to understand
 - coding, prototyping, and occasionally building things a bit faster than I probably should
 
-## what I am exploring right now
+## how I like to work
+
+- learn by building instead of collecting theory for too long
+- prototype quickly, then keep only what survives real use
+- stay grounded in statistics when AI conversations get noisy
+- care about tools that are useful, not just impressive in a demo
+
+## lately
 
 <p>
   <img src="https://img.shields.io/badge/local%20llms-111111?style=flat-square" alt="local llms" />
@@ -41,7 +48,7 @@ A lot of what I do is part study, part experimentation. I like trying new ideas,
 - figuring out where local and open models are genuinely useful
 - testing deep learning ideas end to end instead of only reading about them
 - finding better ways to bring statistical thinking into modern AI work
-- building small projects that teach me something new each time
+- building small projects that sharpen my intuition for data, models, and tooling
 
 ## tools I tend to reach for
 
