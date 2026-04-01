@@ -27,10 +27,21 @@ A lot of what I do is part study, part experimentation. I like trying new ideas,
 
 ## what I am exploring right now
 
-- how local and open LLMs fit into real workflows
-- practical deep learning and model experimentation
-- better ways to think about statistics inside modern AI work
-- small projects that are simple enough to ship and interesting enough to learn from
+<p>
+  <img src="https://img.shields.io/badge/local%20llms-111111?style=flat-square" alt="local llms" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama" />
+  <img src="https://img.shields.io/badge/open%20models-2f6fed?style=flat-square" alt="open models" />
+  <img src="https://img.shields.io/badge/deep%20learning-d14d72?style=flat-square" alt="deep learning" />
+  <img src="https://img.shields.io/badge/data%20science-157f3b?style=flat-square" alt="data science" />
+  <img src="https://img.shields.io/badge/data%20visualization-8a3ffc?style=flat-square" alt="data visualization" />
+  <img src="https://img.shields.io/badge/statistical%20thinking-5c677d?style=flat-square" alt="statistical thinking" />
+  <img src="https://img.shields.io/badge/rapid%20prototyping-c97b00?style=flat-square" alt="rapid prototyping" />
+</p>
+
+- figuring out where local and open models are genuinely useful
+- testing deep learning ideas end to end instead of only reading about them
+- finding better ways to bring statistical thinking into modern AI work
+- building small projects that teach me something new each time
 
 ## tools I tend to reach for
 
@@ -49,13 +60,6 @@ A lot of what I do is part study, part experimentation. I like trying new ideas,
 ## one public thing
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-mukhtaar&repo=nightboard&theme=transparent&hide_border=true)](https://github.com/Ahmad-mukhtaar/nightboard)
-
-## github, at a glance
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-mukhtaar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-mukhtaar&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
-</p>
 
 ## outside the screen
 
