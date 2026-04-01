@@ -1,59 +1,62 @@
-<h1 align="center">Hi, I'm Ahmad Mukhtaar</h1>
-<h3 align="center">Statistics graduate building at the intersection of AI, data science, and deep learning</h3>
+<h1 align="center">Ahmad Mukhtaar</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmadmukhtaar" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ahmad Mukhtaar on LinkedIn" />
+  statistics graduate with a soft spot for AI experiments, local llms, and turning rough ideas into things you can actually run
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ahmadmukhtaar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-## About Me
+## a little about me
 
-I am interested in AI, statistics, data science, deep learning, and data visualization, with a strong preference for learning by building. I like combining statistical thinking with practical experimentation, from modeling and analysis to lightweight products and exploratory tools.
+I come from a statistics background, so I naturally end up thinking in models, uncertainty, signal, noise, and tradeoffs. Lately that has pulled me deeper into AI, data science, deep learning, and the more practical side of building with them.
 
-I use GitHub to document what I am building, what I am learning, and how I think through problems across data, machine learning, and software.
+A lot of what I do is part study, part experimentation. I like trying new ideas, testing tools properly, and seeing what holds up once you move past the demo stage.
 
-## Current Focus
+## what I keep coming back to
 
-- Applying statistical thinking to modern AI and data science workflows
-- Building intuition in deep learning through hands-on experimentation
-- Exploring data visualization as a way to communicate analysis clearly
-- Learning by shipping small, practical projects
-- Staying curious about fast, creative, and "vibe coded" ways to prototype ideas
+- AI and machine learning with a solid statistical foundation
+- local LLM workflows, open models, and experimenting with Ollama
+- data science work that deals honestly with messy data
+- deep learning experiments that teach me something, even when they fail
+- data visualization that makes analysis easier to understand
+- coding, prototyping, and occasionally building things a bit faster than I probably should
 
-## Tech I Work With
+## what I am exploring right now
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+- how local and open LLMs fit into real workflows
+- practical deep learning and model experimentation
+- better ways to think about statistics inside modern AI work
+- small projects that are simple enough to ship and interesting enough to learn from
 
-## A Public Project
-
-One public example of what I like building is [Nightboard](https://github.com/Ahmad-mukhtaar/nightboard), a retro browser-based board built as a simple, focused product experiment.
-
-## GitHub Stats
+## tools I tend to reach for
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-mukhtaar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Ahmad Mukhtaar GitHub stats" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
+
+## one public thing
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-mukhtaar&repo=nightboard&theme=transparent&hide_border=true)](https://github.com/Ahmad-mukhtaar/nightboard)
+
+## github, at a glance
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-mukhtaar&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-mukhtaar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-mukhtaar&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
 </p>
 
-## Connect With Me
+## outside the screen
 
-- [LinkedIn](https://linkedin.com/in/ahmadmukhtaar)
-
----
-
-I am especially interested in work and ideas that sit between statistics, machine learning, and practical problem solving.
+When I am not reading about models or trying a new tool, I am usually still coding, thinking through project ideas, or playing badminton.
