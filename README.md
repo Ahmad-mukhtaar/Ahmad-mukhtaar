@@ -1,7 +1,7 @@
 <h1 align="center">Ahmad Awan</h1>
 
 <p align="center">
-  statistics graduate with a soft spot for AI experiments, local llms, and turning rough ideas into things you can actually run
+  statistics graduate with interest in experimenting with AI to build , local llms, and turning rough ideas into things you can actually run
 </p>
 
 <p align="center">
