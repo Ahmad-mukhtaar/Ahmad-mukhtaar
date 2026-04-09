@@ -64,9 +64,6 @@ A lot of what I do is part study, part experimentation. I like trying new ideas,
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## one public thing
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-mukhtaar&repo=nightboard&theme=transparent&hide_border=true)](https://github.com/Ahmad-mukhtaar/nightboard)
 
 ## outside the screen
 
