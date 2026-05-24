@@ -1,7 +1,7 @@
 <h1 align="center">Ahmad Awan</h1>
 
 <p align="center">
-  statistics graduate with interest in experimenting with AI to build , local llms, and turning rough ideas into things you can actually run
+  Statistics graduate building and testing small AI, data, and local LLM projects.
 </p>
 
 <p align="center">
@@ -10,47 +10,45 @@
   </a>
 </p>
 
-## a little about me
+---
 
-I come from a statistics background, so I naturally end up thinking in models, uncertainty, signal, noise, and tradeoffs. That has pulled me toward AI, data science, deep learning, and the practical side of building with them.
+I come from statistics, so I do not really see AI as magic. I see models, assumptions, uncertainty, bad data, strange outputs, and the occasional result that is actually useful.
 
-A lot of what I do is part study, part experimentation. I like trying new ideas, testing tools properly, and seeing what still makes sense once you move past the demo stage.
+That is the part I like: taking an idea from “this sounds interesting” to “does this still work when I run it myself?”
 
-## what I keep coming back to
+Recently I have been spending more time with local LLMs, open models, Ollama, deep learning experiments, and small tools that make data or workflows easier to understand.
 
-- AI and machine learning with a solid statistical foundation
-- local LLM workflows, open models, and experimenting with Ollama
-- data science work that deals honestly with messy data
-- deep learning experiments that teach me something, even when they fail
-- data visualization that makes analysis easier to understand
-- coding, prototyping, and occasionally building things a bit faster than I probably should
+## questions I keep returning to
 
-## how I like to work
+- What can local models do well enough to be genuinely useful?
+- Where does statistical thinking still matter in modern AI work?
+- How do you evaluate a model when the output looks good but might be wrong?
+- What is worth automating, and what still needs human judgment?
+- Can a small project teach more than a long tutorial?
 
-- learn by building instead of collecting theory for too long
-- prototype quickly, then keep only what survives real use
-- stay grounded in statistics when AI conversations get noisy
-- care about tools that are useful, not just impressive in a demo
+## how I usually build
 
-## lately
+I like starting with something rough that runs.
+
+Not because the first version is good. It usually is not. But a working version tells the truth faster than a perfect plan. Once it runs, I can test it, break it, clean it up, or throw it away.
+
+The pattern is usually: idea -> small prototype -> test it properly -> keep what survives.
+
+I care about speed, but not the kind of speed where nobody knows why the result works.
+
+## current interests
 
 <p>
-  <img src="https://img.shields.io/badge/local%20llms-111111?style=flat-square" alt="local llms" />
+  <img src="https://img.shields.io/badge/local%20LLMs-111111?style=flat-square" alt="local LLMs" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama" />
   <img src="https://img.shields.io/badge/open%20models-2f6fed?style=flat-square" alt="open models" />
-  <img src="https://img.shields.io/badge/deep%20learning-d14d72?style=flat-square" alt="deep learning" />
+  <img src="https://img.shields.io/badge/statistics-5c677d?style=flat-square" alt="statistics" />
   <img src="https://img.shields.io/badge/data%20science-157f3b?style=flat-square" alt="data science" />
-  <img src="https://img.shields.io/badge/data%20visualization-8a3ffc?style=flat-square" alt="data visualization" />
-  <img src="https://img.shields.io/badge/statistical%20thinking-5c677d?style=flat-square" alt="statistical thinking" />
-  <img src="https://img.shields.io/badge/rapid%20prototyping-c97b00?style=flat-square" alt="rapid prototyping" />
+  <img src="https://img.shields.io/badge/deep%20learning-d14d72?style=flat-square" alt="deep learning" />
+  <img src="https://img.shields.io/badge/visualization-8a3ffc?style=flat-square" alt="visualization" />
 </p>
 
-- figuring out where local and open models are genuinely useful
-- testing deep learning ideas end to end instead of only reading about them
-- finding better ways to bring statistical thinking into modern AI work
-- building small projects that sharpen my intuition for data, models, and tooling
-
-## tools I tend to reach for
+## tools I use often
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -60,11 +58,9 @@ A lot of what I do is part study, part experimentation. I like trying new ideas,
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-
 ## outside the screen
 
-When I am not reading about models or trying a new tool, I am usually still coding, thinking through project ideas, or playing badminton.
+Usually still thinking about some project idea. Otherwise, badminton.
