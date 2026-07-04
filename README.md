@@ -22,7 +22,7 @@ My academic work has involved statistical modelling, scientific imaging, GPU com
 - **Machine learning:** PyTorch, scikit-learn
 - **Data:** pandas, NumPy, FITS, geospatial raster data
 - **Computing:** Linux, Git, Slurm, GPU computing
-- **Visualization and GIS:** Matplotlib, Plotly, Tableau, QGIS
+- **Visualization and GIS:** PowerBI, Tableau, QGIS
 
 ## Contact
 
