@@ -1,12 +1,12 @@
 # Ahmad Mukhtar Awan
 
-**SAR Image Analyst at ICEYE | Statistics and Scientific Machine Learning**
+**Statistics and Scientific Machine Learning**
 
 I am a statistics graduate based in Helsinki, Finland, with interests in scientific machine learning, image analysis, geospatial data, and reproducible research.
 
 I completed my Master of Science at the University of Helsinki in 2026 through the Master's Programme in Mathematics and Statistics, with Statistics as my study track. My thesis examined structured prediction of solar line-of-sight magnetograms from SDO/HMI continuum images using PyTorch-based image-to-image models.
 
-My academic work has involved statistical modelling, scientific imaging, GPU computing, data visualization, and reproducible analytical workflows. I currently work at ICEYE as an SAR Image Analyst.
+My academic work has involved statistical modelling, scientific imaging, GPU computing, data visualization, and reproducible analytical workflows.
 
 ## Areas of interest
 
